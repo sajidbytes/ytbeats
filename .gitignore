@@ -1,0 +1,10 @@
+# Secrets and local configuration
+env.sh
+.env
+.env.*
+cookies.txt
+
+# Logs and Python cache
+*.log
+__pycache__/
+*.py[cod]
